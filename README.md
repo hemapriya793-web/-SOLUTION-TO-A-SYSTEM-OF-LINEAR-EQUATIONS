@@ -25,5 +25,5 @@ print(x)
 ![WhatsApp Image 2026-02-05 at 8 29 07 AM](https://github.com/user-attachments/assets/415795b0-3100-4464-8b37-223b95fa5ccb)
 
 ## Result: 
-Thus the solutions for the linear equations are successfully solved using python program
+Thus the solutions for the linear equations are successfully solved using python program 
 
